@@ -17,7 +17,9 @@ Install streamer and ffmpeg.
 sudo apt install streamer ffmpeg -y
 ```  
 
-Example :  
+Also required webcam. 
+
+__Example :__    
 
 ```  
 $ ./capture.sh
