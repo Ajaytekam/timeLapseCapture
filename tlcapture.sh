@@ -22,7 +22,7 @@ Help() {
 
 cat << "EOF"
 
-Usage : ./${9} [-h] [-t] [DELAY_IN_SECONDS_PER_IMAGE]
+Usage : ./tlcapture.sh [-h] [-t] [DELAY_IN_SECONDS_PER_IMAGE]
 
 Options: 
 
